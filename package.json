@@ -1,0 +1,13 @@
+{
+  "name": "scapper",
+  "version": "1.0.0",
+  "main": "filter.js",
+  "scripts": {
+    "filter": "node filter.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
